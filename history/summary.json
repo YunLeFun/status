@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 596,
-    "timeDay": 200,
-    "timeWeek": 280,
-    "timeMonth": 348,
+    "timeDay": 257,
+    "timeWeek": 274,
+    "timeMonth": 349,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2023-07-04": 198,
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.yunle.fun.ico",
     "slug": "yun-le-fun-app",
     "status": "up",
-    "uptime": "92.13%",
+    "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "88.47%",
+    "uptimeYear": "88.75%",
     "time": 1380,
-    "timeDay": 1061,
-    "timeWeek": 1010,
-    "timeMonth": 1074,
-    "timeYear": 1386,
+    "timeDay": 904,
+    "timeWeek": 986,
+    "timeMonth": 1075,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2024-06-02": 16,
       "2024-05-25": 17,
@@ -88,8 +88,7 @@
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
-      "2023-06-17": 1440,
-      "2023-06-16": 1440
+      "2023-06-17": 1440
     }
   }
 ]
