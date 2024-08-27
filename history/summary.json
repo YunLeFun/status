@@ -4,18 +4,20 @@
     "url": "https://yunle.fun",
     "icon": "https://icons.duckduckgo.com/ip3/yunle.fun.ico",
     "slug": "yun-le-fun-home",
-    "status": "up",
+    "status": "down",
     "uptime": "96.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 242,
-    "timeWeek": 287,
-    "timeMonth": 496,
+    "time": 398,
+    "timeDay": 283,
+    "timeWeek": 292,
+    "timeMonth": 490,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-27": 0
+    }
   },
   {
     "name": "YunLeFun App",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.yunle.fun.ico",
     "slug": "yun-le-fun-app",
     "status": "up",
-    "uptime": "92.24%",
+    "uptime": "92.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.21%",
@@ -31,7 +33,7 @@
     "time": 1317,
     "timeDay": 1179,
     "timeWeek": 1161,
-    "timeMonth": 1543,
+    "timeMonth": 1344,
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2024-08-05": 183,
