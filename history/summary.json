@@ -4,19 +4,19 @@
     "url": "https://yunle.fun",
     "icon": "https://icons.duckduckgo.com/ip3/yunle.fun.ico",
     "slug": "yun-le-fun-home",
-    "status": "down",
+    "status": "up",
     "uptime": "96.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 398,
-    "timeDay": 283,
-    "timeWeek": 292,
-    "timeMonth": 490,
+    "timeDay": 293,
+    "timeWeek": 294,
+    "timeMonth": 485,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-08-27": 0
+      "2024-08-27": 6
     }
   },
   {
