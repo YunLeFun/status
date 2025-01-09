@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 158,
-    "timeWeek": 151,
-    "timeMonth": 154,
+    "timeDay": 185,
+    "timeWeek": 159,
+    "timeMonth": 155,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "yun-le-fun-app",
     "status": "up",
     "uptime": "85.74%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "19.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "20.19%",
     "uptimeYear": "75.46%",
-    "time": 1389,
-    "timeDay": 1082,
-    "timeWeek": 1154,
-    "timeMonth": 1154,
+    "time": 1388,
+    "timeDay": 1089,
+    "timeWeek": 1151,
+    "timeMonth": 1151,
     "timeYear": 1348,
     "dailyMinutesDown": {
-      "2025-01-08": 5,
       "2025-01-02": 429,
       "2025-01-01": 1440,
       "2024-12-31": 1440,
@@ -134,8 +133,7 @@
       "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
-      "2024-01-11": 1440,
-      "2024-01-10": 1440
+      "2024-01-11": 1440
     }
   }
 ]
