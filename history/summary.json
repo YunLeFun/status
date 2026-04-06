@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.20%",
+    "uptimeYear": "93.47%",
     "time": 243,
-    "timeDay": 103,
-    "timeWeek": 184,
-    "timeMonth": 179,
+    "timeDay": 127,
+    "timeWeek": 167,
+    "timeMonth": 175,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2026-02-24": 20,
@@ -43,8 +43,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -53,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.yunle.fun.ico",
     "slug": "yun-le-fun-app",
     "status": "up",
-    "uptime": "69.65%",
+    "uptime": "69.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "33.05%",
-    "time": 1156,
-    "timeDay": 1001,
-    "timeWeek": 998,
-    "timeMonth": 999,
-    "timeYear": 1138,
+    "uptimeYear": "33.32%",
+    "time": 1155,
+    "timeDay": 999,
+    "timeWeek": 1008,
+    "timeMonth": 995,
+    "timeYear": 1137,
     "dailyMinutesDown": {
       "2026-03-28": 48,
       "2026-03-10": 20,
@@ -314,8 +313,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   }
 ]
