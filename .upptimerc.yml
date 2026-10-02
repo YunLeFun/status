@@ -15,7 +15,9 @@ assignees: # Users to assign downtime issues (optional)
 
 # Reduce automated commits from generated status data while keeping monitoring timely enough.
 workflowSchedule:
-  uptime: "*/30 * * * *"
+  # Avoid GitHub Actions scheduling congestion at the start of each hour.
+  # Scheduled events can still be delayed/dropped; run history is the heartbeat.
+  uptime: "27,57 * * * *"
   responseTime: "0 23 * * *"
   graphs: "0 0 * * 0"
   summary: "30 0 * * *"

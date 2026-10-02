@@ -1,0 +1,20 @@
+# Custom workflow: kept separate from generated Upptime workflows.
+name: Endpoint diagnostics
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  diagnose:
+    name: Diagnose public endpoints without updating status
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Checkout diagnostic scripts
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Test diagnostic classification and safe logging
+        run: python3 -m unittest discover -s tests -v
+      - name: Probe DNS, TCP, TLS, HTTP, and redirect phases
+        run: python3 scripts/endpoint-diagnostics.py
